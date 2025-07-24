@@ -11,7 +11,7 @@ The birth of Shizuku has two main purposes.
 1. Provide a convenient way to use system APIs
 2. Convenient for the development of some apps that only requires adb permissions
 
-## Shizuku vs. "Old school" method
+## Shizuku vs. "Old school" adb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.shmethod
 
 ### "Old school" method
 
